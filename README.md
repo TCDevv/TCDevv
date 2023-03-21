@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://images.indepth.dev/images/2020/07/In-Depth-guide-into-animations-in-Angular2.jpg)](https://twitter.com/_TCDev) -->
+<p align="center"><a href="https://twitter.com/_TCDev"><img src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true" width="600" alt="Hình ảnh dự án"></a><p>
 <h1 align="center">Hi 👋, I'm Thien Chuc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
